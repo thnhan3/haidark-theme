@@ -2,13 +2,18 @@
   "name": "haidark",
   "displayName": "haidark",
   "description": "Basic dark theme for vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "./img/avatar.jpeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thnhan3/haidark-theme.git"
+  },
   "publisher": "thnhan3",
   "contributes": {
     "themes": [
@@ -23,5 +28,6 @@
         "path": "./themes/haidark-two-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }

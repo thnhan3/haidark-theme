@@ -5,12 +5,10 @@
 
 ## Demo theme for jsx
 
-```jsx
-export default function App() {
-  return (
-    <>
-      <div>App component</div>
-    </>
-  );
-}
-```
+`Haidark One`:
+
+![one](./img/one.png)
+
+`Haidark Two`:
+
+![two](./img/two.png)
