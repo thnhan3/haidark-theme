@@ -1,0 +1,27 @@
+{
+  "name": "haidark",
+  "displayName": "haidark",
+  "description": "Basic dark theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "thnhan3",
+  "contributes": {
+    "themes": [
+      {
+        "label": "haidark one",
+        "uiTheme": "vs-dark",
+        "path": "./themes/haidark-one-theme.json"
+      },
+      {
+        "label": "haidark two",
+        "uiTheme": "vs-dark",
+        "path": "./themes/haidark-two-theme.json"
+      }
+    ]
+  }
+}
