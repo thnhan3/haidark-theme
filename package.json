@@ -1,29 +1,29 @@
 {
   "name": "haidark",
   "displayName": "haidark",
-  "description": "Basic dark theme for vscode",
-  "version": "0.0.2",
+  "description": "Your best dark theme",
+  "version": "0.0.3",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.107.1"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "./img/avatar.jpeg",
+  "icon": "img/avatar.jpeg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thnhan3/haidark-theme.git"
+    "url": "https://github.com/thnhan1/haidark-theme.git"
   },
-  "publisher": "thnhan3",
+  "publisher": "thnhan1",
   "contributes": {
     "themes": [
       {
-        "label": "haidark one",
+        "label": "Default++ vip pro",
         "uiTheme": "vs-dark",
         "path": "./themes/haidark-one-theme.json"
       },
       {
-        "label": "haidark two",
+        "label": "Haidark Nightowl vip Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/haidark-two-theme.json"
       }
