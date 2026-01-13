@@ -2,9 +2,9 @@
   "name": "haidark",
   "displayName": "haidark",
   "description": "Your best dark theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.107.1"
+    "vscode": "^1.91.1"
   },
   "categories": [
     "Themes"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/thnhan1/haidark-theme.git"
   },
-  "publisher": "thnhan1",
+  "publisher": "phongtranhai",
   "contributes": {
     "themes": [
       {

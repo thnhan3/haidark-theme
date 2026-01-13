@@ -210,7 +210,10 @@
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
     "source.elm": "#5f7e97",
     "string.quoted.single.js": "#ffffff",
-    "meta.objectliteral.js": "#82AAFF"
+    "meta.objectliteral.js": "#82AAFF",
+    "meta.objectliteral.ts": "#82AAFF",
+    "support.type.property-name.ts": "#80CBC4",
+    "variable.other.properties.ts": "#faf39f"
   },
   "tokenColors": [
     {
@@ -434,7 +437,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#caece6",
+        "foreground": "ff9479",
         "fontStyle": ""
       }
     },
