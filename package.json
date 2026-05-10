@@ -2,7 +2,7 @@
   "name": "haidark",
   "displayName": "haidark",
   "description": "Your best dark theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.91.1"
   },
@@ -18,14 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Default++ vip pro",
+        "label": "Haidark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/haidark-one-theme.json"
       },
       {
-        "label": "Haidark Nightowl vip Pro",
+        "label": "Haidark Nightowl",
         "uiTheme": "vs-dark",
         "path": "./themes/haidark-two-theme.json"
+      },
+      {
+        "label": "Haidark Moonlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/haidark-three-theme.json"
       }
     ]
   },

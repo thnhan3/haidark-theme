@@ -1,14 +1,17 @@
-# haidark README
+# haidark - A Dark Theme for Visual Studio Code
 
-- `Default++ vip pro`: basic theme base on default Dark+
-- `Haidark Nightowl vip Pro`: base on night owl
+> "Hai" in Vietnamese means "two", and I named it haidark because it's a collection of my favorite dark themes, inspired by other popular themes with some enhancements.
 
-## Demo theme for jsx
+## List of themes
 
-`Default++ vip pro`:
+### Haidark Default
 
 ![one](img/one.png)
 
-`Haidark Nightowl vip Pro`:
+### Haidark Nightowl
 
 ![two](img/two.png)
+
+### HHaidark Mat Trang
+
+![three](img/three.png)
