@@ -8,10 +8,3 @@
 
 ![one](img/one.png)
 
-### Haidark Nightowl
-
-![two](img/two.png)
-
-### HHaidark Mat Trang
-
-![three](img/three.png)
